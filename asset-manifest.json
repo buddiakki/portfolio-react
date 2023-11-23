@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20//buddiakki.github.io/portfolio-react/static/css/main.767d3e19.css",
-    "main.js": "/%20//buddiakki.github.io/portfolio-react/static/js/main.599dd0e2.js",
-    "static/js/787.bbee3217.chunk.js": "/%20//buddiakki.github.io/portfolio-react/static/js/787.bbee3217.chunk.js",
-    "index.html": "/%20//buddiakki.github.io/portfolio-react/index.html",
-    "main.767d3e19.css.map": "/%20//buddiakki.github.io/portfolio-react/static/css/main.767d3e19.css.map",
-    "main.599dd0e2.js.map": "/%20//buddiakki.github.io/portfolio-react/static/js/main.599dd0e2.js.map",
-    "787.bbee3217.chunk.js.map": "/%20//buddiakki.github.io/portfolio-react/static/js/787.bbee3217.chunk.js.map"
+    "main.css": "/portfolio-react/static/css/main.767d3e19.css",
+    "main.js": "/portfolio-react/static/js/main.7307475f.js",
+    "static/js/787.bbee3217.chunk.js": "/portfolio-react/static/js/787.bbee3217.chunk.js",
+    "index.html": "/portfolio-react/index.html",
+    "main.767d3e19.css.map": "/portfolio-react/static/css/main.767d3e19.css.map",
+    "main.7307475f.js.map": "/portfolio-react/static/js/main.7307475f.js.map",
+    "787.bbee3217.chunk.js.map": "/portfolio-react/static/js/787.bbee3217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.767d3e19.css",
-    "static/js/main.599dd0e2.js"
+    "static/js/main.7307475f.js"
   ]
 }
