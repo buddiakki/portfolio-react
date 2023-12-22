@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.7fba627c.css",
-    "main.js": "/portfolio-react/static/js/main.d8a7fcd9.js",
+    "main.js": "/portfolio-react/static/js/main.a8941d2b.js",
     "static/js/787.bbee3217.chunk.js": "/portfolio-react/static/js/787.bbee3217.chunk.js",
     "static/media/3d globe.png": "/portfolio-react/static/media/3d globe.4322a8940e2da503dc69.png",
     "static/media/firebase and react.png": "/portfolio-react/static/media/firebase and react.febb1cfd643d0b787159.png",
     "static/media/todo app.png": "/portfolio-react/static/media/todo app.c0e15c389bfc3f6685ea.png",
     "static/media/barcode scanner.png": "/portfolio-react/static/media/barcode scanner.bab9e60ef2ffeea0b35f.png",
     "static/media/Latest resume chnages.pdf": "/portfolio-react/static/media/Latest resume chnages.a2f4c75cc4bdad42593e.pdf",
+    "static/media/node api.png": "/portfolio-react/static/media/node api.7950396d34a96ae79da3.png",
     "static/media/github.png": "/portfolio-react/static/media/github.ecf329c2c06a1f41fae4.png",
     "static/media/react native logo.webp": "/portfolio-react/static/media/react native logo.df7fe6e22f76592b2f27.webp",
     "index.html": "/portfolio-react/index.html",
     "main.7fba627c.css.map": "/portfolio-react/static/css/main.7fba627c.css.map",
-    "main.d8a7fcd9.js.map": "/portfolio-react/static/js/main.d8a7fcd9.js.map",
+    "main.a8941d2b.js.map": "/portfolio-react/static/js/main.a8941d2b.js.map",
     "787.bbee3217.chunk.js.map": "/portfolio-react/static/js/787.bbee3217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fba627c.css",
-    "static/js/main.d8a7fcd9.js"
+    "static/js/main.a8941d2b.js"
   ]
 }
